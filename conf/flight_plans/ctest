@@ -1,0 +1,5 @@
+$ gcc helloworld.c
+$ ./a.out
+hello, world!
+
+
