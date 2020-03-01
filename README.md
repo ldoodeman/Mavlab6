@@ -74,3 +74,4 @@ Flight
 ------
 
 1.  From the Paparazzi Center, select the flight session and ... do the same as in simulation !
+# Mavlab6
